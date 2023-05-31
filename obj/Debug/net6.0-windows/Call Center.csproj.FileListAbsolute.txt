@@ -1,0 +1,54 @@
+E:\c# forms\Call Center\bin\Debug\net6.0-windows\Call Center.exe
+E:\c# forms\Call Center\bin\Debug\net6.0-windows\Call Center.deps.json
+E:\c# forms\Call Center\bin\Debug\net6.0-windows\Call Center.runtimeconfig.json
+E:\c# forms\Call Center\bin\Debug\net6.0-windows\Call Center.dll
+E:\c# forms\Call Center\bin\Debug\net6.0-windows\Call Center.pdb
+E:\c# forms\Call Center\obj\Debug\net6.0-windows\Call Center.csproj.AssemblyReference.cache
+E:\c# forms\Call Center\obj\Debug\net6.0-windows\Call_Center.Form1.resources
+E:\c# forms\Call Center\obj\Debug\net6.0-windows\Call Center.csproj.GenerateResource.cache
+E:\c# forms\Call Center\obj\Debug\net6.0-windows\Call Center.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# forms\Call Center\obj\Debug\net6.0-windows\Call Center.AssemblyInfoInputs.cache
+E:\c# forms\Call Center\obj\Debug\net6.0-windows\Call Center.AssemblyInfo.cs
+E:\c# forms\Call Center\obj\Debug\net6.0-windows\Call Center.csproj.CoreCompileInputs.cache
+E:\c# forms\Call Center\obj\Debug\net6.0-windows\Call Center.dll
+E:\c# forms\Call Center\obj\Debug\net6.0-windows\refint\Call Center.dll
+E:\c# forms\Call Center\obj\Debug\net6.0-windows\Call Center.pdb
+E:\c# forms\Call Center\obj\Debug\net6.0-windows\Call Center.genruntimeconfig.cache
+E:\c# forms\Call Center\obj\Debug\net6.0-windows\ref\Call Center.dll
+E:\c# forms\Call Center\obj\Debug\net6.0-windows\Call_Center.Properties.Resources.resources
+E:\c# forms\Call Center(Younes Ahmed)\bin\Debug\net6.0-windows\Call Center.exe
+E:\c# forms\Call Center(Younes Ahmed)\bin\Debug\net6.0-windows\Call Center.deps.json
+E:\c# forms\Call Center(Younes Ahmed)\bin\Debug\net6.0-windows\Call Center.runtimeconfig.json
+E:\c# forms\Call Center(Younes Ahmed)\bin\Debug\net6.0-windows\Call Center.dll
+E:\c# forms\Call Center(Younes Ahmed)\bin\Debug\net6.0-windows\Call Center.pdb
+E:\c# forms\Call Center(Younes Ahmed)\obj\Debug\net6.0-windows\Call Center.csproj.AssemblyReference.cache
+E:\c# forms\Call Center(Younes Ahmed)\obj\Debug\net6.0-windows\Call_Center.Form1.resources
+E:\c# forms\Call Center(Younes Ahmed)\obj\Debug\net6.0-windows\Call_Center.Properties.Resources.resources
+E:\c# forms\Call Center(Younes Ahmed)\obj\Debug\net6.0-windows\Call Center.csproj.GenerateResource.cache
+E:\c# forms\Call Center(Younes Ahmed)\obj\Debug\net6.0-windows\Call Center.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# forms\Call Center(Younes Ahmed)\obj\Debug\net6.0-windows\Call Center.AssemblyInfoInputs.cache
+E:\c# forms\Call Center(Younes Ahmed)\obj\Debug\net6.0-windows\Call Center.AssemblyInfo.cs
+E:\c# forms\Call Center(Younes Ahmed)\obj\Debug\net6.0-windows\Call Center.csproj.CoreCompileInputs.cache
+E:\c# forms\Call Center(Younes Ahmed)\obj\Debug\net6.0-windows\Call Center.dll
+E:\c# forms\Call Center(Younes Ahmed)\obj\Debug\net6.0-windows\refint\Call Center.dll
+E:\c# forms\Call Center(Younes Ahmed)\obj\Debug\net6.0-windows\Call Center.pdb
+E:\c# forms\Call Center(Younes Ahmed)\obj\Debug\net6.0-windows\Call Center.genruntimeconfig.cache
+E:\c# forms\Call Center(Younes Ahmed)\obj\Debug\net6.0-windows\ref\Call Center.dll
+E:\c# forms\Call Center(Younes Ahmed)\Call Center(Younes Ahmed)\bin\Debug\net6.0-windows\Call Center.exe
+E:\c# forms\Call Center(Younes Ahmed)\Call Center(Younes Ahmed)\bin\Debug\net6.0-windows\Call Center.deps.json
+E:\c# forms\Call Center(Younes Ahmed)\Call Center(Younes Ahmed)\bin\Debug\net6.0-windows\Call Center.runtimeconfig.json
+E:\c# forms\Call Center(Younes Ahmed)\Call Center(Younes Ahmed)\bin\Debug\net6.0-windows\Call Center.dll
+E:\c# forms\Call Center(Younes Ahmed)\Call Center(Younes Ahmed)\bin\Debug\net6.0-windows\Call Center.pdb
+E:\c# forms\Call Center(Younes Ahmed)\Call Center(Younes Ahmed)\obj\Debug\net6.0-windows\Call Center.csproj.AssemblyReference.cache
+E:\c# forms\Call Center(Younes Ahmed)\Call Center(Younes Ahmed)\obj\Debug\net6.0-windows\Call_Center.Form1.resources
+E:\c# forms\Call Center(Younes Ahmed)\Call Center(Younes Ahmed)\obj\Debug\net6.0-windows\Call_Center.Properties.Resources.resources
+E:\c# forms\Call Center(Younes Ahmed)\Call Center(Younes Ahmed)\obj\Debug\net6.0-windows\Call Center.csproj.GenerateResource.cache
+E:\c# forms\Call Center(Younes Ahmed)\Call Center(Younes Ahmed)\obj\Debug\net6.0-windows\Call Center.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# forms\Call Center(Younes Ahmed)\Call Center(Younes Ahmed)\obj\Debug\net6.0-windows\Call Center.AssemblyInfoInputs.cache
+E:\c# forms\Call Center(Younes Ahmed)\Call Center(Younes Ahmed)\obj\Debug\net6.0-windows\Call Center.AssemblyInfo.cs
+E:\c# forms\Call Center(Younes Ahmed)\Call Center(Younes Ahmed)\obj\Debug\net6.0-windows\Call Center.csproj.CoreCompileInputs.cache
+E:\c# forms\Call Center(Younes Ahmed)\Call Center(Younes Ahmed)\obj\Debug\net6.0-windows\Call Center.dll
+E:\c# forms\Call Center(Younes Ahmed)\Call Center(Younes Ahmed)\obj\Debug\net6.0-windows\refint\Call Center.dll
+E:\c# forms\Call Center(Younes Ahmed)\Call Center(Younes Ahmed)\obj\Debug\net6.0-windows\Call Center.pdb
+E:\c# forms\Call Center(Younes Ahmed)\Call Center(Younes Ahmed)\obj\Debug\net6.0-windows\Call Center.genruntimeconfig.cache
+E:\c# forms\Call Center(Younes Ahmed)\Call Center(Younes Ahmed)\obj\Debug\net6.0-windows\ref\Call Center.dll
