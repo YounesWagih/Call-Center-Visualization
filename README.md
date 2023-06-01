@@ -10,8 +10,10 @@ Once you have downloaded the executable file, navigate to the folder and double-
 ##### If you prefer to compile the source code yourself, you will need to have the following software installed on your computer:
 
 * Microsoft Visual Studio
-.NET Framework
-* To compile and run the program, follow these steps:
+* .NET Framework
+
+
+##### To compile and run the program, follow these steps:
 
 Clone or download the source code for the Program from this repository.
 Open the solution file (Call Center.sln) in Visual Studio.
